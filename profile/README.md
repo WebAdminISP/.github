@@ -2,8 +2,7 @@
 
 ## Descripción General
 
-Bienvenido a la organización **WebAdminISP**. <br>
-Este proyecto está siendo desarrollado como el proyecto final de la carrera en SoyHenry. <br> 
+Bienvenido al **proyecto final**. <br> 
 WebAdminISP es una aplicación destinada a la administración de servicios de Internet,<br> 
 ofreciendo funcionalidades como gestión de usuarios, relevamientos técnicos, asistencias técnicas, <br>
 gestión de equipos, pasarela de pagos, envío de facturas y recibos de pago, entre otros.
@@ -75,10 +74,10 @@ Esta organización contiene los siguientes repositorios:
 
 ### <font color='lime'><p align="center">Integrantes del equipo</p></font>
 
-<p align="center">Jose Andres Borrero Labrador - Front End</p>
-<p align="center">Carlos Manuel Olivera Mispireta - Front End</p>
-<p align="center">Joaquin Noe Ibañez Aro - Front End</p>
-<p align="center">Edmundo Kinast - Back End</p>
-<p align="center">Rafael Velazquez Hernandez - Back End</p>
+<p align="center">Jose Andres Borrero Labrador - <b>Front End</b></p>
+<p align="center">Carlos Manuel Olivera Mispireta - <b>Front End</b></p>
+<p align="center">Joaquin Noe Ibañez Aro - <b>Front End</b></p>
+<p align="center">Edmundo Kinast - <b>Back End</b></p>
+<p align="center">Rafael Velazquez Hernandez - <b>Back End</b></p>
 
 ---
