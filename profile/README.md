@@ -79,5 +79,6 @@ Esta organización contiene los siguientes repositorios:
 <p align="center">Joaquin Noe Ibañez Aro - <b>Front End</b></p>
 <p align="center">Edmundo Kinast - <b>Back End</b></p>
 <p align="center">Rafael Velazquez Hernandez - <b>Back End</b></p>
+<p align="center">Rodrigo Nahuel Fernandez - <b>Back End</b></p>
 
 ---
